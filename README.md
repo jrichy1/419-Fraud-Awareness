@@ -1,8 +1,6 @@
 # 419-Fraud-Awareness
 Raising awareness about 419 fraud and advance-fee scams.
 
-> # 419 Fraud Awareness
-
 ## Overview
 **419 fraud**, also known as an advance-fee scam, is a deceptive scheme where victims are tricked into paying upfront fees with the promise of receiving a large financial reward. This repository is dedicated to raising awareness about these scams and providing tools and resources to help people recognize and avoid them.
 
